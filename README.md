@@ -4,7 +4,7 @@
 
 #### [See it Live](https://vaibhav-rm.github.io/happy-birthday-my-love/)
 
-It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
+It was a birthday of my wife and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
 Feel free to use it to wish your friend if you want.
 You can get it running in a few easy steps:
